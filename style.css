@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Caveat&family=Lobster+Two&family=Playfair+Display&family=Poppins:ital@0;1&display=swap');
+
+body {
+ background-color: aliceblue;
+}
+
+.name {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+img {
+    border-radius: 40px;
+}
+
+table{
+	border: none;
+	align-self: auto;
+}
